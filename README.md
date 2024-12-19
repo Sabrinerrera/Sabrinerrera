@@ -1,7 +1,7 @@
 [![profile-background.png](https://i.postimg.cc/5yzcCy2w/profile-background.png)](https://postimg.cc/9wcN3WTM)
 
 <div align=center>
-  <a href="www.linkedin.com/in/sabrina-herrera-sabrinerrera"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sabrina-herrera-sabrinerrera/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://discordapp.com/users/884475200807256065"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://www.instagram.com/sabrinerrera/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </div>
