@@ -37,4 +37,4 @@
 <h2> GitHub Stats <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h2>
 
 ![Sabrina's github stats](https://github-readme-stats.vercel.app/api?username=Sabrinerrera&show_icons=true&theme=radical)
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabrinerrera&theme=radical" alt="More Sabrina Stats" />
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabrinerrera&theme=radical" alt="More Sabrina Stats" /></p>
