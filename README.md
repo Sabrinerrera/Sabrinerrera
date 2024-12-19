@@ -14,7 +14,6 @@
     with <b>Machine Learning</b> and <b>Computer Graphics</b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22px">; <br> discovering patterns, visualizing wonders. 
   </em> 
   
-<br>
 <h2> About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /></h2>
 <img align="right" width=200px height=211px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <ul>
@@ -28,10 +27,14 @@
   <li>📮 Open to job offers.</li>
 </ul>
 
-<br>
 <h2> Technology Stack <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="70" /></h2>
 <div align=center>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
 </div>
+
+<h2> GitHub Stats <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h2>
+
+![Sabrina's github stats](https://github-readme-stats.vercel.app/api?username=Sabrinerrera&show_icons=true&theme=radical)
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabrinerrera&theme=radical" alt="More Sabrina Stats" />
